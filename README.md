@@ -2,7 +2,7 @@
 
 Questa repository è dedicata alla condivisione di appunti, compiti, esercizi e verifiche tra gli studenti della 3°B Informatica dello Jean Monnet.
 
-##📚 Convenzione per i branch temporanei
+## 📚 Convenzione per i branch temporanei
 
 Per mantenere ordine e sicurezza nella repository, quando crei un branch temporaneo devi seguire questa convenzione di nome:
 
@@ -80,3 +80,4 @@ Verifiche/ 10-11-2025/
 
 
 **Buona collaborazione!**
+
