@@ -1,1 +1,4 @@
-Cartella dedicata a Letteratura
+# [Letteratura]
+
+Questa cartella è dedicata ai materiali, appunti ed esercizi relativi alla materia di **[Letteratura]**.  
+Usala per condividere tutto ciò che riguarda questa materia e facilitare lo studio tra compagni.
