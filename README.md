@@ -2,6 +2,27 @@
 
 Questa repository è dedicata alla condivisione di appunti, compiti, esercizi e verifiche tra gli studenti della 3°B Informatica dello Jean Monnet.
 
+##📚 Convenzione per i branch temporanei
+
+Per mantenere ordine e sicurezza nella repository, quando crei un branch temporaneo devi seguire questa convenzione di nome:
+
+    appunti-nome-argomento
+
+Esempi:
+
+    appunti-Luca-matematica
+    appunti-Giulia-informatica
+    appunti-Marco-storia
+
+⚠️ Solo i branch che seguono questo pattern saranno accettati e protetti dalle regole della repository!
+
+Perché lo facciamo?
+
+Per sapere subito chi ha creato il branch e su quale argomento lavora.
+Per rispettare le regole di protezione e sicurezza.
+Per facilitare le revisioni e il lavoro di gruppo.
+Se hai dubbi su come creare un branch, chiedi pure!
+
 ## 📁 Struttura delle cartelle
 
 Ogni materia ha la sua cartella principale (es: `Informatica`, `Matematica`, ecc.).
@@ -56,5 +77,6 @@ Verifiche/ 10-11-2025/
 - Se hai dubbi su dove mettere un file, chiedi al gruppo!
 
 ---
+
 
 **Buona collaborazione!**
